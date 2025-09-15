@@ -17,4 +17,4 @@ The website represents a **clinic**, providing information about services, locat
 
 ## Deployment
 The project is deployed on **Vercel**:  
-[Live Demo](https://your-vercel-link-here.vercel.app)
+[clinic-website-project.vercel.app](https://clinic-website-project.vercel.app)
